@@ -1,0 +1,28 @@
+Added Component: Designator=U4(RGZ(S-PVQFN-N48) - duplicate)
+Added Pin To Net: NetName=NetC22_1 Pin=U4-1
+Added Pin To Net: NetName=NetC24_1 Pin=U4-2
+Added Pin To Net: NetName=NetC28_1 Pin=U4-3
+Added Pin To Net: NetName=NetC25_1 Pin=U4-4
+Added Pin To Net: NetName=NetC26_1 Pin=U4-5
+Added Pin To Net: NetName=RF_SW Pin=U4-6
+Added Pin To Net: NetName=VDDS Pin=U4-13
+Added Pin To Net: NetName=NetR8_2 Pin=U4-17
+Added Pin To Net: NetName=VDDS Pin=U4-22
+Added Pin To Net: NetName=NetC27_1 Pin=U4-23
+Added Pin To Net: NetName=JTAG_TMS Pin=U4-24
+Added Pin To Net: NetName=JTAG_TCK Pin=U4-25
+Added Pin To Net: NetName=JTAG_TDO Pin=U4-26
+Added Pin To Net: NetName=JTAG_TDI Pin=U4-27
+Added Pin To Net: NetName=DCDC_SW Pin=U4-33
+Added Pin To Net: NetName=VDDS Pin=U4-34
+Added Pin To Net: NetName=NetC23_1 Pin=U4-35
+Added Pin To Net: NetName=NetC2_1 Pin=U4-41
+Added Pin To Net: NetName=NetC1_1 Pin=U4-42
+Added Pin To Net: NetName=CC1350_SW_PWR Pin=U4-43
+Added Pin To Net: NetName=VDDS Pin=U4-44
+Added Pin To Net: NetName=VDDR Pin=U4-45
+Added Pin To Net: NetName=NetU4_46 Pin=U4-46
+Added Pin To Net: NetName=NetU4_47 Pin=U4-47
+Added Pin To Net: NetName=VDDR Pin=U4-48
+Added Pin To Net: NetName=GND Pin=U4-49
+Added Member To Class: ClassName=S1 Member=Component U4 IC_RF_CC13XX_7X7_QFN48_V2

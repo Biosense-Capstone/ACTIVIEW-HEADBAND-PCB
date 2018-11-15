@@ -1,0 +1,4 @@
+Added Component: Designator=L13(0402[IMP])
+Added Pin To Net: NetName=NetC36_1 Pin=L13-1
+Added Pin To Net: NetName=NetC30_2 Pin=L13-2
+Added Member To Class: ClassName=S1 Member=Component L13 2.2nH

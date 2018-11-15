@@ -1,0 +1,12 @@
+Added Component: Designator=H1(Header 3  -MolexPicoBlade - RightAngle)
+Added Component: Designator=H2(Header 3  -MolexPicoBlade - RightAngle)
+Added Component: Designator=H3(Header 3  -MolexPicoBlade - RightAngle)
+Added Pin To Net: NetName=VCC Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=VCC Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=VCC Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Member To Class: ClassName=Designator Member=Component H1 Header 3
+Added Member To Class: ClassName=Designator Member=Component H2 Header 3
+Added Member To Class: ClassName=Designator Member=Component H3 Header 3

@@ -1,0 +1,34 @@
+Added Component: Designator=E2(Electrode_Socket)
+Added Component: Designator=E3(Electrode_Socket)
+Added Component: Designator=U2(SO-8_N)
+Added Component: Designator=U3(SO-8_N)
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=U2-1
+Added Net: Name=NetE2_1
+Added Pin To Net: NetName=NetE3_1 Pin=E3-1
+Added Pin To Net: NetName=NetE3_1 Pin=E3-1
+Added Pin To Net: NetName=NetE3_1 Pin=E3-1
+Added Pin To Net: NetName=NetE3_1 Pin=E3-1
+Added Pin To Net: NetName=NetE3_1 Pin=U3-1
+Added Net: Name=NetE3_1
+Added Member To Class: ClassName=Designator Member=Component E2 Electrode_Snap
+Added Member To Class: ClassName=Designator Member=Component E3 Electrode_Snap
+Added Member To Class: ClassName=Designator Member=Component U2 OpAmp_AD8226
+Added Member To Class: ClassName=Designator Member=Component U3 OpAmp_AD8226
