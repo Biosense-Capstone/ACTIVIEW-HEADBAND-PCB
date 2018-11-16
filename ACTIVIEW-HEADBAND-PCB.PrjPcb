@@ -123,56 +123,119 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIAKAXUH
 
+[Document6]
+DocumentPath=HEADBAND-CAM.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=HEADBAND-DRILL.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=BOM\HEADBAND-BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\Design Rule Check - HEADBAND-PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.EXTREP
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBL
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBO
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBP
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBS
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GKO
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTL
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTO
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTP
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTS
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.REP
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ACTIVIEW-HEADBAND-PCB\HEADBAND-PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -486,6 +549,8 @@ OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
