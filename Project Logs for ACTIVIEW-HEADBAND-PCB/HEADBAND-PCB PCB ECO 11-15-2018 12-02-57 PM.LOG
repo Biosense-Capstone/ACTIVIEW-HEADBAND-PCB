@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=S2 Member=H3
+Removed Member From Class: ClassName=S1 Member=H5
+Change Component Designator: OldDesignator=H3 NewDesignator=H4
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H6
+Added Member To Class: ClassName=S1 Member=Component H3 Header 3
+Added Member To Class: ClassName=S2 Member=Component U1 OpAmp_AD8226
+Added Member To Class: ClassName=S2 Member=Component U2 OpAmp_AD8226
+Added Member To Class: ClassName=S1 Member=Component U3 1117-3.3
